@@ -1089,6 +1089,7 @@ justify-content: center;
 @media (max-width: 450px) {
   html {
     font-size: 7px;
+   font-weight : 600;
   }
   .heading {
     font-size: 3rem;
