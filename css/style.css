@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&family=Titillium+Web&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:wght@600;700&display=swap');
 * {
  
   margin: 0;
@@ -1044,7 +1043,7 @@ justify-content: center;
     top: 27px !important;
   }
   .brand img{
-    width: 320px !important;
+    width: 251px !important;
    }
   .header #menu-btn {
     display: inline-block;
